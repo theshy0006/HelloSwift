@@ -1,0 +1,14 @@
+/* 
+  InfoPlist.strings
+  HelloSwift
+
+  Created by wangyang on 2020/8/21.
+  Copyright © 2020 com.boc. All rights reserved.
+*/
+
+home = "首页";
+cate = "分类";
+cart = "购物车";
+mine = "我的";
+homeTitle = "iconFont演示";
+
